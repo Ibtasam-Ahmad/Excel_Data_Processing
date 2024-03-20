@@ -1,5 +1,3 @@
-Certainly! Here's an example of a README file that explains the provided Python script line by line and covers the requirements:
-
 ---
 
 # Excel Data Processing Script
