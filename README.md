@@ -1,5 +1,3 @@
----
-
 # Excel Data Processing Script
 
 ## Overview
